@@ -1,9 +1,16 @@
 ---
-permalink: /research/
+layout: archive
 title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
 ---
 
-# Working Paper
+
+<hr>
+
+## Working Papers
 
 "College Admission, Mismatch, and Labor Market Outcomes"
 
