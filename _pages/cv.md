@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2022 - Present: Research Assistant
+* May 2022 - Present: Research Assistant
   * University of Colorado-Boulder
   * Supervisor: Professor Francisca Antman
 
