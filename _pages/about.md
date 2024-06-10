@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello and Welcome! My name is Sheng Qu and I am a PhD student in the economics department at the University of Colorado Boulder. I expect to graduate in Spring 2026. My research focuses on labor economics and applied microeconomics. 
+## Welcome!
 
-Feel free to reach out at: sheng.qu@colorado.edu
+Hello and Welcome! My name is Sheng Qu, and I am a PhD student in the Economics Department at the University of Colorado Boulder. I expect to graduate in Spring 2026. My research focuses on labor economics and applied microeconomics.
+
+Feel free to reach out at: [sheng.qu@colorado.edu](mailto:sheng.qu@colorado.edu)
