@@ -13,8 +13,8 @@ redirect_from:
 
 ### **“The Long-Run Impacts of Mentoring Underrepresented Minority Groups in Economics”**  
 with Francisca M. Antman, Bruce A. Weinberg, and Trevon D. Logan  
-**AEA Papers and Proceedings**, Vol. 115, pp. 522–528, May 2025
-
+**AEA Papers and Proceedings**, Vol. 115, pp. 522–528, May 2025  
+[Read article](https://www.aeaweb.org/articles?id=10.1257/pandp.20251075)
 ---
 
 ## Working Papers
