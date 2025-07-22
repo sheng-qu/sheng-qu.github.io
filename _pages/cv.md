@@ -8,6 +8,6 @@ redirect_from:
 ---
 <hr>
 
-[Download My CV (PDF)](/files/YourName_CV.pdf){:target="_blank" rel="noopener"}
+[Download My CV (PDF)](/files/YourName_CV.pdf)
 
 
