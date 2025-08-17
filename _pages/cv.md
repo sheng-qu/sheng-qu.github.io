@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,6 @@ redirect_from:
 ---
 <hr>
 
-[Download My CV (PDF)](https://drive.google.com/file/d/10srxhxflkR3u01BPbfIEMjlwIET92ma0/view?usp=drive_link)
+[Download My Resume (PDF)](https://drive.google.com/file/d/10srxhxflkR3u01BPbfIEMjlwIET92ma0/view?usp=drive_link)
 
 
