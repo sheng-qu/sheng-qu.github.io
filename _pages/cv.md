@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 <hr>
-[Download My Resume (PDF)]
+
+[Download My CV (PDF)]
