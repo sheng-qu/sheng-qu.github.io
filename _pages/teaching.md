@@ -10,16 +10,16 @@ redirect_from:
 ## Instructor of Record
 
 **Principles of Microeconomics**  
-Spring 2024 — University of Colorado Boulder
+Spring 2024 @ CU Boulder
 
 ---
 
 ## Teaching Assistant
 
 **Principles of Microeconomics**  
-Fall 2020, Spring 2021 — University of Colorado Boulder
+Fall 2020, Spring 2021 @ CU Boulder
 
 **Principles of Macroeconomics**  
-Fall 2021, Spring 2022, Fall 2022, Spring 2023, Spring 2024 — University of Colorado Boulder
+Fall 2021 - Fall 2023 @ CU Boulder
 
 
