@@ -35,4 +35,4 @@ This paper estimates the effects of China’s college admission reform on studen
 
 ## Work in Progress
 
-Linguistic Analysis of Gender Bias in Mainstream Popular Music (1965-2015)
+"Linguistic Analysis of Gender Bias in Mainstream Popular Music (1965-2015)"
