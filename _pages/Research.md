@@ -19,10 +19,11 @@ with Francisca M. Antman, Bruce A. Weinberg, and Trevon D. Logan
 
 ## Working Papers
 
-### **"International Students and College Tuition in the U.S."** (Job Market Paper)
+### **"[International Students and College Tuition in the U.S.](https://drive.google.com/file/d/1HrDSTWiVN9Xk-zIMId1sLMj8w-btsSD2/view?usp=sharing)"** (Job Market Paper)
+
 
 <details>
-<summary><strong>Abstract ▼</strong></summary>
+<summary>Abstract</summary>
 <br>
 This paper examines how growth in international undergraduate enrollment affects both sticker-price and net-price tuition at U.S. PhD-granting institutions. Leveraging the relaxation of U.S. visa policy and the appreciation of the Chinese yuan as natural experiments that drove a rise in Chinese undergraduate enrollment beginning in 2005, I use institution-level panel data from 2000 to 2019 and employ difference-in-differences and instrumental variable approaches to identify the causal effects of rising international undergraduate enrollment on tuition outcomes. I find that increases in international undergraduate enrollment raise out-of-state sticker-price tuition at nonprofit public PhD-granting universities but reduce it at nonprofit private PhD-granting institutions. Nonprofit private PhD-granting institutions with greater exposure to international undergraduate enrollment growth also experience reductions in average net-price tuition, while nonprofit public PhD-granting institutions show no significant change. These divergent responses highlight differing institutional priorities: private nonprofit universities appear to prioritize school quality and student subsidization, while public institutions emphasize in-state access and budget stability. The findings suggest that domestic students at nonprofit private universities benefit more from international undergraduate student growth than their counterparts at nonprofit public institutions.
 </details>
@@ -31,7 +32,7 @@ This paper examines how growth in international undergraduate enrollment affects
 ### **"College Admission, Mismatch, and Labor Market Outcomes"**
 
 <details>
-<summary><strong>Abstract ▼</strong></summary>
+<summary>Abstract</summary>
 <br>
 
 This paper estimates the effects of China's college admission reform on students' labor market outcomes. The reform, implemented in 26 of 34 provinces, aimed to reduce the mismatch between student ability and college quality. Using individual-level data with detailed labor market information, the study finds that the reform had no significant impact on affected students' log yearly labor income.
