@@ -19,7 +19,7 @@ with Francisca M. Antman, Bruce A. Weinberg, and Trevon D. Logan
 
 ## Working Papers
 
-### **"[International Students and College Tuition in the U.S.](https://drive.google.com/file/d/1HrDSTWiVN9Xk-zIMId1sLMj8w-btsSD2/view?usp=sharing)"** (Job Market Paper)
+### **["International Undergraduate Student Inflows and College Pricing Strategies"](https://drive.google.com/file/d/1HrDSTWiVN9Xk-zIMId1sLMj8w-btsSD2/view?usp=sharing)** (Job Market Paper)
 
 
 <details>
